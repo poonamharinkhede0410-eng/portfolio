@@ -1,0 +1,6 @@
+{
+  "name": "root@portfolio // Cyber Security Command Center",
+  "description": "Futuristic hacker-themed personal portfolio for an ethical hacker, security researcher, and developer with interactive terminal, live matrix grid, and cyber telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
